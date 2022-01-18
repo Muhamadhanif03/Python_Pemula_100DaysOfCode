@@ -1,5 +1,5 @@
 # Python_Pemula_100DaysOfCode
-Berisikan tentang repository Python 
+I moved to JAVA LOL
 
 # Goal
 - Dapat menggunakan Python dengan lancar
